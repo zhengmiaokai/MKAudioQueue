@@ -1,0 +1,2 @@
+# MKAudioQueue
+基于AudioQueue实现PCM音频的录制与播放
